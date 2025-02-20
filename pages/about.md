@@ -8,8 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-![Pinball_Machines_09](https://github.com/user-attachments/assets/8ffef02e-a7f4-4416-888d-1e975ef192f9)
-
+<img src="[image-url](https://github.com/user-attachments/assets/8ffef02e-a7f4-4416-888d-1e975ef192f9)" alt="Pinball Machines" width="300" height="200">
 
 
 ## About the Collection
