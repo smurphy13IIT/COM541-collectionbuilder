@@ -8,6 +8,10 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+![Pinball_Machines_09](https://github.com/user-attachments/assets/8ffef02e-a7f4-4416-888d-1e975ef192f9)
+
+
+
 ## About the Collection
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
